@@ -41,4 +41,15 @@ El simulador permite analizar cómo distintos algoritmos de planificación gesti
 | Alerta_Accidente   | 4          | 1         | Emergencia crítica   |
 | Reporte_Estadistico| 6          | 2         | Análisis de datos    |
 
+### Resultados en diagrama de gantt
+
+### Round Robin
+<img width="533" height="394" alt="image" src="https://github.com/user-attachments/assets/6928afae-9e8f-4e39-adac-9e7d1c310125" />
+
+### Prioridad
+<img width="534" height="391" alt="image" src="https://github.com/user-attachments/assets/4f390f6f-3f00-4e31-87d2-1c9669f381c9" />
+
+
+
+
 
